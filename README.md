@@ -54,8 +54,8 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/jyoti-131/krishe.git
-   cd krishe
+   git clone https://github.com/kajalvsg/Krishe.git
+   cd Krishe
    ```
 
 2. **Create a Virtual Environment:**
